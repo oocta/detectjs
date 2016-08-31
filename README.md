@@ -1,0 +1,2 @@
+# detectjs
+Javascript Util library
